@@ -1,9 +1,12 @@
 # Medical-imaging-and-artificial-intelligence
 This repository is for recording papers related to medical imaging and artificial intelligence.
+
 format:
+
 title and information          content         link
 
 example:
+
 WSISA: Making Survival Prediction from Whole Slide Histopathological Images
 Xinliang Zhu, Jiawen Yao, Feiyun Zhu, and Junzhou Huang∗
 Univerisity of Texas at Arlington
